@@ -1,4 +1,9 @@
 ## OAKLAND:
+
+### [CODE of ORDINANCES](https://library.municode.com/ca/oakland/codes/code_of_ordinances)
+
+- [Title 8 - HEALTH AND SAFETY](https://library.municode.com/ca/oakland/codes/code_of_ordinances?nodeId=TIT8HESA)
+
 ---
 
 ## BERKELEY:
