@@ -1,5 +1,3 @@
-# Bay Area Habitability Codes
-
 ## OAKLAND:
 
 ### [CODE of ORDINANCES](https://library.municode.com/ca/oakland/codes/code_of_ordinances)
